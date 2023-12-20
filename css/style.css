@@ -275,7 +275,7 @@ section#stacking {
     height: 1300px;
     /* position: absolute;
     top: 1820px; */
-    background-color: #f6f7ff;
+    background-color: #fff;
     position: relative; /* 추가 */
 }
 
